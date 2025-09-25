@@ -2,7 +2,7 @@
 
 Este repositório contém as atividades e projetos desenvolvidos nas aulas de **Programação Web**.
 
-🔗 **Acesse o site publicado aqui:** [Clique aqui]([text](https://gabedev1.github.io/AULAS-PW/))
+🔗 **Acesse o site publicado aqui:** [Clique aqui](https://gabedev1.github.io/AULAS-PW/)
 
 ---
 
