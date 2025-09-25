@@ -2,7 +2,7 @@
 
 Este repositório contém as atividades e projetos desenvolvidos nas aulas de **Programação Web**.
 
-🔗 **Acesse o site publicado aqui:** [Clique aqui](https://gabedev1.github.io/PW/)
+🔗 **Acesse o site publicado aqui:** [Clique aqui](https://gabedev1.github.io/AULAS-PW/)
 
 ---
 
@@ -18,3 +18,4 @@ Este repositório contém as atividades e projetos desenvolvidos nas aulas de **
 - HTML5
 - CSS3
 - GitHub Pages
+
