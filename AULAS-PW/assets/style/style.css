@@ -1,0 +1,137 @@
+body {
+  font-family: "Fira Sans", sans-serif;
+  font-weight: 500;
+  margin: 0;
+  padding: 0;
+}
+
+.logo {
+  font-weight: 500;
+  font-size: 1em;
+  color: #d60000;
+  margin-left: 32px;
+  letter-spacing: 2px;
+}
+
+.menu {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  background: #000000;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.07);
+  display: flex;
+  align-items: center;
+  z-index: 1000;
+  height: 64px;
+}
+
+.logo {
+  font-weight: 700;
+  font-size: 1.6em;
+  color: #d60000;
+  margin-left: 32px;
+  letter-spacing: 2px;
+}
+
+.menu ul {
+  display: flex;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  flex: 1;
+  justify-content: center;
+}
+
+.menu li {
+  position: relative;
+}
+
+.menu li a {
+  display: block;
+  padding: 0 24px;
+  line-height: 64px;
+  color: #ffffff;
+  text-decoration: none;
+  font-size: 1.1em;
+  transition: background 0.2s, color 0.2s;
+}
+
+.menu li a:hover {
+  background: #d60000;
+  color: #fff;
+}
+
+.menu li ul {
+  position: absolute;
+  top: 64px;
+  left: 0;
+  background: #000000;
+  display: none;
+  min-width: 180px;
+  box-shadow: 0 4px 16px rgba(0, 0, 0, 0.08);
+  border-radius: 0 0 6px 6px;
+}
+
+.menu li:hover ul {
+  display: block;
+}
+
+/* Conteúdo centralizado */
+.content {
+  max-width: 900px;
+  max-height: 400;
+  margin: 96px auto 96px auto;
+  padding: 32px;
+  background: #fff;
+  border-radius: 8px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.04);
+}
+
+.titulo {
+  font-size: 2em;
+  font-weight: 700;
+  margin-bottom: 16px;
+}
+
+.subtitulo {
+  font-size: 1.3em;
+  color: #d60000;
+  margin-bottom: 12px;
+}
+
+.titulo4 {
+  font-size: 1.1em;
+  color: #222;
+  margin-bottom: 8px;
+}
+
+.noticia {
+  font-size: 1em;
+  color: #444;
+  line-height: 1.7;
+}
+
+.video {
+  display: block;
+  width: 100%;
+  height: 450px;
+  max-width: 100%;
+  border: none;
+}
+
+
+.footer
+{
+    background-color: #000000;
+    color: red;
+    padding: 20px;
+    text-align: center;
+}
+
+.fa-instagram, .fa-x-twitter
+{
+    color: #d60000;
+    margin: 10px;
+    font-size: 30px;
+}
